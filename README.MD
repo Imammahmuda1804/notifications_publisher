@@ -1,4 +1,4 @@
- RabbitMQ Sample Pub-Sub dengan Golang dan Echo
+RabbitMQ Sample Pub-Sub dengan Node.js 
 
 ## 1. Install RabbitMQ
 
